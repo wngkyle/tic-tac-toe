@@ -1,8 +1,8 @@
 # Tic-Tac-Toe Game
 
 ### Table of Contents
- - [Introduction][#introduction]
- - [Game Rules][#game-rules]
+ - [Introduction](#introduction)
+ - [Game Rules](#game-rules)
 
 ### Introduction 
 
