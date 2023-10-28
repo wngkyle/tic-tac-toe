@@ -9,8 +9,9 @@
 
 This fun and interactive Tic-Tac-Toe game is built using React Javascript. Whether you want to play against a friend or challenge yourself, this application offers not just the classic gameplay you know and love but also advanced features, including the ability to backtrack and revisit any previous step, making it more strategic and engaging. 
 
-![ezgif com-video-to-gif](https://github.com/wngkyle/tic-tac-toe/assets/99611120/69d3c939-f1c9-4d34-81c4-d209abaf1502)
-
+<p align="center">
+  <img src="https://github.com/wngkyle/tic-tac-toe/assets/99611120/69d3c939-f1c9-4d34-81c4-d209abaf1502">
+</p>
 
 ### Game Rules
 
