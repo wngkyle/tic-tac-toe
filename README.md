@@ -15,12 +15,8 @@ This interactive tic-tac-toe game is built using React Javascript. Whether you w
 
 ### Game Rules
 
-- Players:
-  - 2 (Two players take turns)
-- Objective:
-  - The primary objective is to achieve a three-in-a-row alignment of your marks (either "X" or "O"), either horizontally, vertically, or diagonally.
-- Turns:
-  - Players take turns placing their respective marks on an empty cell.
+- The primary objective is to achieve a three-in-a-row alignment of your marks (either "X" or "O"), either horizontally, vertically, or diagonally.
+- Two players take turns placing their respective marks on an empty cell.
  
 ### Features
 
